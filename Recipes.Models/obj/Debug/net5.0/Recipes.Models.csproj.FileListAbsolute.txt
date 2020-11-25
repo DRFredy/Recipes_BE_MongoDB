@@ -1,0 +1,12 @@
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/bin/Debug/net5.0/Recipes.Models.deps.json
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/bin/Debug/net5.0/Recipes.Models.dll
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/bin/Debug/net5.0/ref/Recipes.Models.dll
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/bin/Debug/net5.0/Recipes.Models.pdb
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/obj/Debug/net5.0/Recipes.Models.csprojAssemblyReference.cache
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/obj/Debug/net5.0/Recipes.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/obj/Debug/net5.0/Recipes.Models.AssemblyInfoInputs.cache
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/obj/Debug/net5.0/Recipes.Models.AssemblyInfo.cs
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/obj/Debug/net5.0/Recipes.Models.csproj.CoreCompileInputs.cache
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/obj/Debug/net5.0/Recipes.Models.dll
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/obj/Debug/net5.0/ref/Recipes.Models.dll
+/home/fredy/develop/recipes/Recipes_MongoDB/Recipes_BE_MongoDB/Recipes.Models/obj/Debug/net5.0/Recipes.Models.pdb
